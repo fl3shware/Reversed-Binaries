@@ -1,5 +1,3 @@
-<img width="1400" height="700" alt="image" src="https://github.com/user-attachments/assets/dd92d867-bcdf-402d-87de-c303f16d727a" />
-
 # RE-Binaries
 
 A collection of reverse engineering writeups, analysis notes, and technical documentation from binary analysis across multiple platforms.
